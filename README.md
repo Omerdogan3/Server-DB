@@ -3,4 +3,4 @@
 
 A basic program to save and retrieve my server informations in a local daatabase.
 
-https://i.hizliresim.com/jW0QJG.png
+[![image](https://i.hizliresim.com/jW0QJG.png)](https://hizliresim.com/jW0QJG)
